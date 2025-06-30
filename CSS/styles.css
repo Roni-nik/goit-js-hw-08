@@ -1,0 +1,19 @@
+
+.gallery {
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+
+}
+
+
+.gallery-image {
+    width: 360px;
+        height: 300px;
+}
+
+
+.basicLightbox {
+    background: rgba(46, 47, 66, 0.8);
+ }
